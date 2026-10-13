@@ -1,13 +1,4 @@
-<p align="center">
-  <b>Software Engineering Student · AI & Software Development</b>
-</p>
-
-<p align="center">
-  Building web applications, mobile apps, and exploring AI-powered tools.
-</p>
-
 ---
-
 ### 💻 Languages & Development
 
 <p>
